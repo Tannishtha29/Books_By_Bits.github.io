@@ -1,6 +1,6 @@
 /* Website Template by freewebsitetemplates.com */
 body {
-	background: url(../images/bg-body.gif) repeat center top;
+	background: url(../images/360_F_277278994_u45dpL3B5jMbHAscJdhnTvRC5YnxAqbu.jpg) repeat center top;
 	font-family: Georgia, serif;
 	font-size: 16px;
 	margin: 0;
@@ -12,7 +12,7 @@ body {
 	width: 960px;
 }
 #header {
-	background: url(../images/bg-header.png) no-repeat bottom center;
+	
 	height: 188px;
 	margin: 0;
 	padding: 0;
@@ -55,7 +55,7 @@ body {
 	width: 100px;
 }
 #header div.navigation ul li a {
-	color: #8b5d21;
+	color: #2c0a91;
 	display: block;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 20px;
@@ -67,14 +67,14 @@ body {
 	text-transform: uppercase;
 }
 #header div.navigation ul li.selected a {
-	color: #9c1119;
+	color: #2c0a91;
 	font-weight: bold;
 }
 #header div.navigation ul li a:hover {
 	color: #9c1119;
 }
 #body .header {
-	background: #c0b4a2 url(../images/bg-content-bottom.gif) no-repeat bottom center;
+	background: #06284d url(../images/bg-content-bottom.gif) no-repeat bottom center;
 	margin: 0 0 40px 0;
 	padding: 5px 30px 33px;
 	text-align: center;
@@ -135,13 +135,14 @@ body {
 	padding: 80px 0 0;
 }
 #body .footer div {
-	background: url(../images/interface.png) no-repeat 0 -143px;
+	background:white;
 	float: left;
 	height: 199px;
 	margin: 0;
 	overflow: hidden;
 	padding: 0 50px 10px;
 	width: 360px;
+	border-radius:30px;
 }
 #body .footer div:first-child {
 	margin: 0 39px 0 0;
@@ -153,7 +154,7 @@ body {
 	text-align: center;
 }
 #body .footer div h3 a {
-	color: #3b2317;
+	color: #1b173b;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 25px;
 	letter-spacing: 2px;
@@ -187,7 +188,7 @@ body {
 	color: #37261e;
 }
 #body .content {
-	background: #c0b4a2 url(../images/bg-content-bottom.gif) no-repeat bottom center;
+	background: #16b5c7;
 	margin: 0;
 	min-height: 1050px;
 	overflow: hidden;
@@ -209,7 +210,8 @@ body {
 	text-shadow: 0 1px 0 #968a7a;
 }
 #body .content h3 {
-	color: #3b2317;
+	color: white;
+	text-shadow:2px 2px 1px blue;
 	font-size: 18px;
 	font-weight: normal;
 	line-height: 30px;
@@ -219,7 +221,7 @@ body {
 	text-transform: uppercase;
 }
 #body .content p {
-	color: #59463d;
+	color: white;
 	line-height: 30px;
 	margin: 0;
 	padding: 0 40px;
